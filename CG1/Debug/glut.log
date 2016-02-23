@@ -1,0 +1,26 @@
+﻿Сборка начата 23.02.2016 21:12:22.
+     1>Проект "C:\Users\Андрей Ветров\Documents\GitHub\CG1\CG1\glut.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         E:\visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Yu"stdafx.h" /Fp"Debug\glut.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt glut.cpp
+         glut.cpp
+     1>c:\users\андрей ветров\documents\github\cg1\cg1\glut.cpp(70): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей ветров\documents\github\cg1\cg1\glut.cpp(78): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей ветров\documents\github\cg1\cg1\glut.cpp(94): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей ветров\documents\github\cg1\cg1\glut.cpp(96): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей ветров\documents\github\cg1\cg1\glut.cpp(160): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей ветров\documents\github\cg1\cg1\glut.cpp(164): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей ветров\documents\github\cg1\cg1\glut.cpp(177): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей ветров\documents\github\cg1\cg1\glut.cpp(253): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей ветров\documents\github\cg1\cg1\glut.cpp(259): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей ветров\documents\github\cg1\cg1\glut.cpp(265): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей ветров\documents\github\cg1\cg1\glut.cpp(271): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\андрей ветров\documents\github\cg1\cg1\glut.cpp(380): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         E:\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Debug\glut.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Debug\glut.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Debug\glut.lib" /MACHINE:X86 /SAFESEH Debug\glut.obj
+         Debug\stdafx.obj
+         glut.vcxproj -> C:\Users\Андрей Ветров\Documents\GitHub\CG1\CG1\Debug\glut.exe
+     1>Построение проекта "C:\Users\Андрей Ветров\Documents\GitHub\CG1\CG1\glut.vcxproj" завершено (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.10

@@ -1,0 +1,25 @@
+﻿Сборка начата 23.02.2016 16:16:06.
+     1>Проект "C:\Users\Андрей Ветров\Documents\GitHub\CG1\CG1\glut.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         E:\visual studio\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\glut.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt glut.cpp
+         glut.cpp
+     1>glut.cpp(62): warning C4018: <: несоответствие типов со знаком и без знака
+     1>glut.cpp(70): warning C4018: <: несоответствие типов со знаком и без знака
+     1>glut.cpp(86): warning C4018: <: несоответствие типов со знаком и без знака
+     1>glut.cpp(88): warning C4018: <: несоответствие типов со знаком и без знака
+     1>glut.cpp(151): warning C4018: <: несоответствие типов со знаком и без знака
+     1>glut.cpp(155): warning C4018: <: несоответствие типов со знаком и без знака
+     1>glut.cpp(172): warning C4018: <: несоответствие типов со знаком и без знака
+     1>glut.cpp(267): warning C4018: <: несоответствие типов со знаком и без знака
+     1>glut.cpp(273): warning C4018: <: несоответствие типов со знаком и без знака
+     1>glut.cpp(279): warning C4018: <: несоответствие типов со знаком и без знака
+     1>glut.cpp(285): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         E:\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Release\glut.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Release\glut.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Release\glut.lib" /MACHINE:X86 /SAFESEH Release\glut.obj
+         Release\stdafx.obj
+         glut.vcxproj -> C:\Users\Андрей Ветров\Documents\GitHub\CG1\CG1\Release\glut.exe
+     1>Построение проекта "C:\Users\Андрей Ветров\Documents\GitHub\CG1\CG1\glut.vcxproj" завершено (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.65
